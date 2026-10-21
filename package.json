@@ -19,6 +19,7 @@
     "@capacitor/android": "^8.5.3",
     "@capacitor/app": "^8.1.2",
     "@capacitor/core": "^8.5.3",
+    "@capacitor/ios": "^8.5.3",
     "@supabase/supabase-js": "^2.116.0",
     "barcode-detector": "^3.2.2",
     "mediabunny": "1.61.2",
